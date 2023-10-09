@@ -1,16 +1,20 @@
-### Hi there 👋
+👋 Hi there, I'm Antareep Hasan!
 
-<!--
-**antareephasan/antareephasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an undergraduate student pursuing a B.Sc. in Computer Science and Engineering at the University of Global Village.
 
-Here are some ideas to get you started:
+💻 I'm passionate about programming and problem-solving, and I'm on a journey to explore the endless possibilities of the tech world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I specialize in JavaScript and have hands-on experience with the MERN (MongoDB, Express.js, React, Node.js) stack. Currently, I'm diving deep into Next.js and also have an interest in Three.js for creating exciting web experiences.
+
+👨‍💻 My tech stack includes:
+   - JavaScript
+   - React.js
+   - Node.js
+   - MongoDB
+   - C / C++
+   - Python
+   - Next.js
+
+🎸 When I'm not coding, you can find me strumming my acoustic guitar and losing myself in the world of music.
+
+📫 Let's connect and collaborate on exciting projects! Feel free to reach out to me here or on [LinkedIn](https://www.linkedin.com/in/antareep-hasan/), and let's create something awesome together.
