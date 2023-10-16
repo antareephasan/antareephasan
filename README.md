@@ -14,6 +14,8 @@
    - C / C++
    - Python
    - Next.js
+   - Prisma
+   - GraphQL
 
 🎸 When I'm not coding, you can find me strumming my acoustic guitar and losing myself in the world of music.
 
