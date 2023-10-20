@@ -11,11 +11,13 @@
    - React.js
    - Node.js
    - MongoDB
+   - Mongoose
    - C / C++
    - Python
    - Next.js
    - Prisma
    - GraphQL
+   - MySQL
 
 🎸 When I'm not coding, you can find me strumming my acoustic guitar and losing myself in the world of music.
 
