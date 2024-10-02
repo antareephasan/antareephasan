@@ -23,4 +23,4 @@
 
 📫 Let's connect and collaborate on exciting projects! Feel free to reach out to me here or on [LinkedIn](https://www.linkedin.com/in/antareep-hasan/), and let's create something awesome together.
 
-<a href="https://app.daily.dev/antareephasan"><img src="https://api.daily.dev/devcards/v2/wYWb49bcFpPG6cxgvji5r.png?r=cz3" width="356" alt="Antareep Hasan's Dev Card"/></a>
+<a href="https://app.daily.dev/antareephasan"><img src="https://api.daily.dev/devcards/v2/wYWb49bcFpPG6cxgvji5r.png?r=cz3&type=wide" width="652" alt="Antareep Hasan's Dev Card"/></a>
