@@ -14,6 +14,13 @@ Specializing in **Next.js, TypeScript, React, Node.js, Payload CMS, and PostgreS
 
 ## 🚀 Featured Projects & Live Work
 
+### ⚙️ [B&T Engineering](https://btengineering.nl)
+A custom multi-tenant platform architecture engineered for multi-domain routing, client tenant separation, and administrative management.
+- **Tech Stack:** Next.js, Payload CMS 3, PostgreSQL, Middleware Domain Routing, Tailwind CSS
+- **Live Site:** [btengineering.nl](https://btengineering.nl)
+
+---
+
 ### 🎓 [German Uni Finder](https://germanunifinder.com)
 An interactive directory and course finder for universities in Germany featuring hybrid vector search and AI-assisted data indexing.
 - **Tech Stack:** Next.js, Payload CMS, MongoDB, Tailwind CSS
@@ -35,22 +42,8 @@ A modern, responsive business platform designed for a Bangladeshi agricultural f
 
 ---
 
-### 📊 [SMM Price Scout](https://smm-price-scout.vercel.app)
-A high-performance service price aggregator and real-time monitoring dashboard that tracks provider service catalog adjustments and price fluctuations automatically.
-- **Tech Stack:** Next.js, Supabase (PostgreSQL), Vercel, Inngest
-- **Live Demo:** [smm-price-scout.vercel.app](https://smm-price-scout.vercel.app)
-
----
-
-### 🏠 [Asset Property Solution](https://assetproperty.net)
-A real estate showcase platform built to highlight property portfolios with optimized client-side performance and clean listing architecture.
-- **Tech Stack:** Next.js, Hostinger, Tailwind CSS
-- **Live Site:** [assetproperty.net](https://assetproperty.net)
-
----
-
 ## 📬 Connect & Freelance Inquiries
-- **Portfolio:** [antareephasan.com](https://antareephasan.com) *(Update with your domain if different)*
+- **Portfolio:** [antareephasan.com](https://antareephasan.com)
 - **GitHub:** [github.com/antareephasan](https://github.com)
 - **LinkedIn:** [linkedin.com/in/antareephasan](https://linkedin.com)
 - **Email:** Contact via GitHub Profile
