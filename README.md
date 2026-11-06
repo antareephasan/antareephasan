@@ -43,7 +43,7 @@ A modern, responsive business platform designed for a Bangladeshi agricultural f
 ---
 
 ## 📬 Connect & Freelance Inquiries
-- **Portfolio:** [antareephasan.com](https://antareephasan.com)
-- **GitHub:** [github.com/antareephasan](https://github.com)
+- **Portfolio:** [antareephasan.vercel.app](https://antareephasan.vercel.app/)
+- **GitHub:** [github.com/antareephasan](https://github.com/antareephasan)
 - **LinkedIn:** [linkedin.com/in/antareephasan](https://linkedin.com)
-- **Email:** Contact via GitHub Profile
+- **Email:** antareephasan@gmail.com
